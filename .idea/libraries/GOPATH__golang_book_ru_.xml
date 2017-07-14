@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;golang-book.ru&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../distanceconf" />
+      <root url="file://$PROJECT_DIR$/../../tempconf" />
+      <root url="file://$PROJECT_DIR$/../../gopl.io" />
+      <root url="file://$PROJECT_DIR$/../../weightconf" />
+      <root url="file://$PROJECT_DIR$/../../bitbucket.org" />
+      <root url="file://$PROJECT_DIR$/.." />
+      <root url="file://$PROJECT_DIR$/../../github.com" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../distanceconf" />
+      <root url="file://$PROJECT_DIR$/../../tempconf" />
+      <root url="file://$PROJECT_DIR$/../../gopl.io" />
+      <root url="file://$PROJECT_DIR$/../../weightconf" />
+      <root url="file://$PROJECT_DIR$/../../bitbucket.org" />
+      <root url="file://$PROJECT_DIR$/.." />
+      <root url="file://$PROJECT_DIR$/../../github.com" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
